@@ -62,7 +62,7 @@ void minusA(int arr1[], int arr2[], int res[], int len) {
     normalize(res, len);
 }
 
-void karatsubaMultiply(int* num1, int* num2, int* result, int len) {
+void karatsubaMultiply(int num1[], int num2[], int result[], int len) {
     if (len == 1) {
 
 
