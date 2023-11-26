@@ -96,7 +96,6 @@ void karatsubaMultiply(int num1[], int num2[], int result[], int len) {
     int ApB[LENGTH * 2] = {0};
     int CpD[LENGTH * 2] = {0};
     int ApBCpD[LENGTH * 2] = {0};
-    int ACpBD[LENGTH * 2] = {0};
     int ApBCpDminACminBD[LENGTH * 2] = {0};
     int temp[LENGTH * 2] = {0};
 
